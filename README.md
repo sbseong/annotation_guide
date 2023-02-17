@@ -72,6 +72,7 @@
 - 최대 20개의 AF onset  예상 구간을 업로드하였으나, 검토 후 Afib이 출현하지 않은 환자는 Pre label 상 다음 Afib이 나타나는 시점의 데이터를 추가로 업로드할 수 있음.
 - [test00@test.com](mailto:test00@test.com) 관리자 계정으로는 라벨링해도 추후 필터되어 실제 데이터로 사용하지 않음
 - 시스템에서 파란색으로 표시되는 것은, 현재 선택된 파일이 아니고, 직전에 파일을 열어서 검토했던 샘플을 나타냄.
+- ![Untitled](README/Untitled.png)
 - 대상 구간이 2개의 파일에 걸쳐 있는 경우 아래 그림에서와 같이 일부 공백이 있음
 
 ![Untitled](README/Untitled 1.png)
